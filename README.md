@@ -3,7 +3,7 @@ The repository contains the main default configuration files of popular software
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ### Prerequisites
-
+Installed Git.
 ### Installing
 Just clone the repository and use it :)
 ```
